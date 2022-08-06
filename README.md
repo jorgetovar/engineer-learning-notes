@@ -8,6 +8,13 @@
 
 This is *iteration 0* of the notes, and some of the good resources, that I've found through my career to sharpen my skills. 
 
+## Why
+
+I would like to share my thoughts and notes on the areas that I'm more interested in at this time of my life regarding engineering, wealth, and learning.
+
+I believe this could be useful for you and probably inspire you to create something similar :) 
+
+
 **Learning is an essential skill** in the era of information, you have to choose your skills wisely, dedicate time to learning, and make learning a part of your job.
 
 to prioritize what topics to study I have found the [Technology Radar](https://www.thoughtworks.com/radar) amazing. It keeps me humble and hungry.
@@ -24,7 +31,7 @@ Share is what motivates me to write my notes in this repository. Thanks to [Yevg
 ## Books
 - [Clean Agile](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/books/clean-agile.md)
 - [Clean Craftsmanship](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/books/clean-craftsmanship.md)
-- [Effective Enginner](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/books/effective-enginner.md)
+- [Effective Engineer](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/books/effective-Engineer.md)
 - [Hello Startup](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/books/hello-startup.md)
 - [Modern Software Engineering](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/books/modern-software-engineering.md)
 - [Philosophy of Software Design](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/books/philosophy-of-software-design.md)
