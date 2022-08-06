@@ -1,4 +1,4 @@
-# engineer-learning-notes
+# Engineer learning notes
 
 Learning is an essential skill in the era of information, you have to choose your skills wisely, dedicate time to learning, and make learning a part of your job.
 
