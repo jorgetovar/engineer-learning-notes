@@ -81,9 +81,11 @@ Refactor is part of our job
 ## Continuous integration
 Continuous Integration meant that developers checked in their source code changes and merged them with the mainline every “couple of hours.”
 The build never be broke
+
 ## Metaphor (ubiquitous language)
 Domain-driven design: Ubiquitous Language
 its a thread of consistency that interconnects the entire project during every phase of its lifecycle
+
 ## Sustainable peace
 As I matured, I realized that my worst technical mistakes were made during those periods of frenetic late-night energy.
 That was the moment that I learned that a software project is a marathon, not a sprint, nor a sequence of sprints. To win, you must pace yourself
@@ -91,6 +93,7 @@ That was the moment that I learned that a software project is a marathon, not a 
 Working overtime is not a way to show your dedication to your employer. What it shows is that you are a bad planner, that you agree to deadlines to which you shouldn’t agree, that you make promises you shouldn’t make and that you are a manipulable laborer and not a professional.
  
 You must sleep well
+
 ## Collective ownership
 No one owns the code in an Agile project. The code is owned by the team as a whole. Any member of the team can check out and improve any module in the project at any time. The team owns the code collectively.
  
