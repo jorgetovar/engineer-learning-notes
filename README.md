@@ -35,8 +35,8 @@ Share is what motivates me to write my notes in this repository. Thanks to [Yevg
 
 - [Do Epic Shit](https://github.com/jorgetovar/engineer-learning-notes/blob/main/leadership/do-epic-shit.md)
 - [Great Mental Models](https://github.com/jorgetovar/engineer-learning-notes/blob/main/leadership/great-mental-models.md)
-- [So Good that they can't Ignore You](https://github.com/jorgetovar/engineer-learning-notes/blob/main/leadership/so-good-that-they-cant-ignore-you.md)
-- [The Hard Thing about Hard Things](https://github.com/jorgetovar/engineer-learning-notes/blob/main/leadership/the-hard-thing-about-hard-things.md)
+- [So Good That They can't Ignore You](https://github.com/jorgetovar/engineer-learning-notes/blob/main/leadership/so-good-that-they-cant-ignore-you.md)
+- [The Hard Thing About Hard Things](https://github.com/jorgetovar/engineer-learning-notes/blob/main/leadership/the-hard-thing-about-hard-things.md)
 - [Think Fast and Slow](https://github.com/jorgetovar/engineer-learning-notes/blob/main/leadership/think-fast-and-slow.md)
 
 ## Wealth
@@ -54,4 +54,5 @@ Share is what motivates me to write my notes in this repository. Thanks to [Yevg
 
 - [Software Notes](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/random-software-notes.md)
 - [Hiring](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/hiring-startup.md)
--[Remote Onboarding](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/remote-onboarding.md)
+- [Remote Onboarding](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/remote-onboarding.md)
+- [simple robot-simulator](https://github.com/jorgetovar/robot-simulator)
