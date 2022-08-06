@@ -1,6 +1,6 @@
 # Engineer learning notes
 
->  Hi, I'm jorge Tovar, a software engineer who loves automating things and creating products that make people's life easier.
+>  Hi, I'm Jorge Tovar, a software engineer who loves automating things and creating products that make people's life easier.
 - [Twitter](https://twitter.com/jorgetovar621)
 - [LinkedIn](https://www.linkedin.com/in/%F0%9F%93%9A-jorge-tovar-71847669/)
 - [Github](https://github.com/jorgetovar)
