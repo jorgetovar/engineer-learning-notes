@@ -1,1 +1,1 @@
-# money
+# wealth
