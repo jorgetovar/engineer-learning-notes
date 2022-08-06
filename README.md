@@ -11,4 +11,4 @@ To get a better result in your Study you have to:
 
 Share is what motivates me to write my notes  this repository. Big thanks to [Yevgeniy](https://www.ybrikman.com) and his blog posts. Insightful with a lot of good ideas and takeaways. Now I can appreciate design, metrics, and culture from another perspective.
 
-Lastly, Reading books is part of the process to get better when you are a *maker*, like almost all Software Developers, writing and taking notes helps you to organize your thoughts.
+## Lastly, Reading books is part of the process to get better when you are a *maker*, like almost all Software Developers, writing and taking notes helps you to organize your thoughts.
