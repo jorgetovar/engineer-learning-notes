@@ -6,10 +6,9 @@ I want to make contributing to this project as easy and transparent as possible,
 - Typos
 - Proposing new books
 - Fix links
-- Add your ideas
+- Ideas to improve the doc
+- Code implementations and examples
 
+**We Use [Github Flow](https://docs.github.com/en/get-started/quickstart/github-flow), So All Code Changes Happen Through Pull Requests**
 
-### We Use [Github Flow](https://guides.github.com/introduction/flow/index.html), So All Code Changes Happen Through Pull Requests
-
-Pull requests are the best way to propose changes to the codebase (we use [Github Flow](https://guides.github.com/introduction/flow/index.html)). 
-
+Pull requests are the best way to propose changes to the codebase
