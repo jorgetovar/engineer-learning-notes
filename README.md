@@ -66,7 +66,7 @@ Share is what motivates me to write my notes in this repository. Thanks to [Yevg
 - [Remote Onboarding](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/remote-onboarding.md)
 - [simple robot-simulator](https://github.com/jorgetovar/robot-simulator)
 
-## [Contributing] https://github.com/jorgetovar/engineer-learning-notes/blob/main/CONTRIBUTING.md
+## [Contributing](https://github.com/jorgetovar/engineer-learning-notes/blob/main/CONTRIBUTING.md)
 
 This is a personal space (Not new summaries). I would love your feedback!
 
