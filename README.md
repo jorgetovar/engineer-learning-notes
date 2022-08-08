@@ -45,6 +45,12 @@ Share is what motivates me to write my notes in this repository. Thanks to [Yevg
 - [Pragmatic Programmer](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/books/pragmatic-programmer.md)
 - [Refactoring](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/books/refactoring.md)
 
+### Backlog
+
+- Terraform Up and Running
+- Clojure for the Brave and the True
+- Designing Data-Intensive Applications
+
 ## Leadership
 
 - [Do Epic Shit](https://github.com/jorgetovar/engineer-learning-notes/blob/main/leadership/do-epic-shit.md)
@@ -53,6 +59,14 @@ Share is what motivates me to write my notes in this repository. Thanks to [Yevg
 - [The Hard Thing About Hard Things](https://github.com/jorgetovar/engineer-learning-notes/blob/main/leadership/the-hard-thing-about-hard-things.md)
 - [Think Fast and Slow](https://github.com/jorgetovar/engineer-learning-notes/blob/main/leadership/think-fast-and-slow.md)
 
+
+### Backlog
+
+- Influence: The Psychology of Persuasion
+- Outliers: The Story of Success
+- Why we Sleep
+
+
 ## Wealth
 
 - [Naval](https://github.com/jorgetovar/engineer-learning-notes/blob/main/wealth/naval.md)
@@ -60,9 +74,13 @@ Share is what motivates me to write my notes in this repository. Thanks to [Yevg
 ## Projects
 
 - [Clean Architecture with Kotlin & Java](https://github.com/jorgetovar/engineer-learning-notes/blob/main/projects/clean-architecture.md)
-- [Java 8 -> Kotlin & Java 17](https://github.com/jorgetovar/engineer-learning-notes/blob/main/projects/java-8-17-kotlin.md)
+- [Java 8 -> Kotlin & Java 17](https://github.com/jorgetovar/from-java-8-to-java-17-kotlin-clojure)
 - [Kotlin Design Patterns](https://github.com/jorgetovar/engineer-learning-notes/blob/main/projects/kotlin-design-patterns.md)
 - [Terraform & Vite](https://github.com/jorgetovar/engineer-learning-notes/blob/main/projects/vite-terraform.md)
+
+### Backlog
+
+- Test-Driven Development by Example
 
 ## Random
 
@@ -70,7 +88,6 @@ Share is what motivates me to write my notes in this repository. Thanks to [Yevg
 - [Hiring](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/hiring-startup.md)
 - [Remote Onboarding](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/remote-onboarding.md)
 - [Simple robot-simulator](https://github.com/jorgetovar/robot-simulator)
-
 - [Clojure](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/clojure-101.md)
 
 ## Spanish
