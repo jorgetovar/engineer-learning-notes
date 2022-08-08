@@ -1,4 +1,5 @@
-# GIT useful commands
+# Git useful commands
+Our brain is better at processing data than storing it. So that's why I'm creating this document with one of the useful but maybe no so common commands to get the best for this wonderful tool
 
 ### Delete all branches except the main one
 
