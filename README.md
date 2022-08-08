@@ -86,6 +86,7 @@ Share is what motivates me to write my notes in this repository. Thanks to [Yevg
 
 - [Software Notes](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/random-software-notes.md)
 - [Hiring](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/hiring-startup.md)
+- [Git Useful Commands](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/git-useful-commands.md)
 - [Remote Onboarding](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/remote-onboarding.md)
 - [Simple robot-simulator](https://github.com/jorgetovar/robot-simulator)
 - [Clojure](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/clojure-101.md)
