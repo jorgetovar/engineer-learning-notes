@@ -2,7 +2,7 @@
 
 Our brain is better at processing data than storing it. So that's why I'm creating this document with one of the useful but maybe not so common commands to get the best for this wonderful tool
 
-- Unstage all files you might have staged with git add:
+- Unstage all files you might have staged with git add
 ```shell
 git reset
 ```
@@ -32,7 +32,32 @@ git reset --soft HEAD~1
 ```shell
 rm -rf .git
 ```
-- Remove archive from commit
+- Remove a file from a Git repository without deleting it from the local filesystem
 ```shell
 git rm --cached .classpath
+```
+
+- Resolve Git merge conflicts in favor of their changes during a pull
+In a conflicted state, and you want to just accept all of theirs:
+
+```shell
+git checkout --theirs .
+git add .
+```
+If you want to do the opposite:
+
+```shell
+git checkout --ours .
+git add .
+```
+In pulling 
+
+```shell
+git pull -X theirs
+```
+
+In a conflicted state by file
+
+```shell
+git checkout --theirs path/to/file
 ```
