@@ -2,7 +2,7 @@
 
 ## English
 
-Spotify Links to some of the shows that I frequently hear on my spare time
+Spotify Links to some of the shows that I frequently hear in my spare time
 
 - [Level-Up Engineering](https://open.spotify.com/show/5KZJ8JhKG0KrP0FdWk5vJ7?si=68ec01d389bc49a1)
 - [Tech Lead Journal](https://open.spotify.com/show/5suS91H6OfqDt14ZsOD4RV?si=a4a1c3b10c7848ae)
