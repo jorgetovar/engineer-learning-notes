@@ -1,4 +1,6 @@
 # courses
 
-> TODO: pending
-## AWS solutions Architect
+> TODO: pending - Iteration 0
+
+## AWS solutions Architect 2022
+

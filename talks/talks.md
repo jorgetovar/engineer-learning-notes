@@ -2,38 +2,21 @@
 
 ## The  best YouTube channels to follow as a software engineer
 
-- **Web development** @fireship_dev Jeff Delaney
+- **[Web Development](https://lnkd.in/eRec6pYc)** @fireship_dev Jeff Delaney
 
-https://lnkd.in/eRec6pYc
+- **[Software Architecture](https://lnkd.in/ef5N5E8s)** @markrichardssa Mark Richards
 
-- **Software architecture** @markrichardssa Mark Richards
+- **[Clean Architecture](https://lnkd.in/eaRpDy8Q)** @VictorRentea Victor Rentea 
 
-https://lnkd.in/ef5N5E8s
+- **[Javascript / Remote Work](https://lnkd.in/e-bW6Gga)** @_ericelliott 
 
-- **Clean architecture** @VictorRentea Victor Rentea 
+- **[System Design](https://lnkd.in/e35wb-wj)** @bytebytego
 
-https://lnkd.in/eaRpDy8Q
+- **[Terraform](https://lnkd.in/edujWjr5)** @antonbabenko
 
-- **Javascript / remote work** @_ericelliott 
+- **[Startups](https://lnkd.in/e6qgx34F)** @brikis98
 
-https://lnkd.in/e-bW6Gga
+- **[DevOps](https://lnkd.in/e5FbW6Sk)** @Njuchi_
 
-- **System design** @bytebytego
+- **[Cloud](https://lnkd.in/eEutgP5A)**: one of my favorite YouTube channels in28minutes
 
-https://lnkd.in/e35wb-wj
-
-- **Terraform** @antonbabenko
-
-https://lnkd.in/edujWjr5
-
-- **Startups** @brikis98
-
-https://lnkd.in/e6qgx34F
-
-- **DevOps** @Njuchi_
-
-https://lnkd.in/e5FbW6Sk
-
-- **Cloud**: one of my favorite YouTube channels in28minutes
-
-https://lnkd.in/eEutgP5A
