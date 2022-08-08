@@ -1,4 +1,4 @@
-#Clojure 101
+# Clojure 101
 
 >"We should aim for simplicity because simplicity is a prerequisite for reliability"
 — Edsger W. Dijkstra
@@ -25,9 +25,9 @@ public class Main {
 
 Una de las características más importantes de Clojure es que: es un dialecto de Lisp; en esté artículo vamos a explorar uno de los elementos más importantes que componen el core de este tipo de lenguajes, la sintaxis. -pendientes funciones y data-.
 
-##Sintaxis
+## Sintaxis
 
-###Formas
+### Formas
 
 Todo el código de Clojure, mantiene una estructura uniforme : operaciones, y representaciones literales de estructuras de datos.
 
@@ -69,7 +69,7 @@ public String isGreaterThan() {
 }
 ```
 
-###Inmutabilidad
+### Inmutabilidad
 
 Clojure es un lenguaje Funcional donde las estructuras de datos son inmutables, permitiendo que la información sea compartida entre hilos y funciones sin problemas.
 
@@ -91,7 +91,7 @@ person
 ; => {:first-name "Jorge", :last-name "Tovar", :age 30, :occupation "Programmer"}
 ```
 
-###Valores con nombre
+### Valores con nombre
 Clojure es un lenguaje donde las funciones son elementos de primera clase, además cuenta con el REPL, para que puedas probar todas tus ideas y tener feedback de forma inmediata.
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/22x42ibk279loegjjqxb.png)
@@ -115,7 +115,7 @@ def user_message(message):
         x = "Python " + "loves OOP"
     return x
 ```
-###Conclusión
+### Conclusión
 Clojure es un lenguaje que centra su filosofía en simplicidad, funciones puras, libertad de enfoque y la expresividad del código, elementos fundamentales para crear software robusto.
 
 El paradigma funcional per se, es un mundo interesante, que permite una forma más limpia de crear sistemas, y si al igual que yo y muchos de los desarrolladores que conozco, eres apasionado por aprender cosas nuevas y útiles, te recomiendo esté lenguaje, un punto de vista totalmente diferente de como resolver los problemas - minimizando la complejidad y las líneas de código -.

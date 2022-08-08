@@ -30,6 +30,11 @@ Share is what motivates me to write my notes in this repository. Thanks to [Yevg
 
 ### Lastly, Reading books is part of the process to get better when you are a *maker*, like almost all Software Developers, writing and taking notes helps you to organize your thoughts.
 
+
+## Learn to Learn
+
+- [Learning](https://github.com/jorgetovar/engineer-learning-notes/tree/main/learn-to-learn)
+
 ## Books
 - [Clean Agile](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/books/clean-agile.md)
 - [Clean Craftsmanship](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/books/clean-craftsmanship.md)
@@ -64,8 +69,13 @@ Share is what motivates me to write my notes in this repository. Thanks to [Yevg
 - [Software Notes](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/random-software-notes.md)
 - [Hiring](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/hiring-startup.md)
 - [Remote Onboarding](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/remote-onboarding.md)
-- [simple robot-simulator](https://github.com/jorgetovar/robot-simulator)
+- [Simple robot-simulator](https://github.com/jorgetovar/robot-simulator)
 
+- [Clojure](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/clojure-101.md)
+
+## Spanish
+- [Hábitos Atómicos](https://github.com/jorgetovar/engineer-learning-notes/blob/main/spanish/h%C3%A1bitos-at%C3%B3micos.md)
+- [Clojure Spanish](https://github.com/jorgetovar/engineer-learning-notes/blob/main/spanish/clojure-101.md)
 ## [Contributing](https://github.com/jorgetovar/engineer-learning-notes/blob/main/CONTRIBUTING.md)
 
 This is a personal space (Not new summaries). I would love your feedback!
