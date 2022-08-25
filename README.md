@@ -58,7 +58,7 @@ Share is what motivates me to write my notes in this repository. Thanks to [Yevg
 - [So Good That They can't Ignore You](https://github.com/jorgetovar/engineer-learning-notes/blob/main/leadership/so-good-that-they-cant-ignore-you.md)
 - [The Hard Thing About Hard Things](https://github.com/jorgetovar/engineer-learning-notes/blob/main/leadership/the-hard-thing-about-hard-things.md)
 - [Think Fast and Slow](https://github.com/jorgetovar/engineer-learning-notes/blob/main/leadership/think-fast-and-slow.md)
-
+- [Essentialism](https://github.com/jorgetovar/engineer-learning-notes/blob/main/leadership/essentialism.md)
 
 ### Backlog
 
