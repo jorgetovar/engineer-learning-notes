@@ -53,6 +53,7 @@ Share is what motivates me to write my notes in this repository. Thanks to [Yevg
 
 ## Leadership
 
+- [Deep work](https://github.com/jorgetovar/engineer-learning-notes/blob/main/leadership/deep-work.md)
 - [Do Epic Shit](https://github.com/jorgetovar/engineer-learning-notes/blob/main/leadership/do-epic-shit.md)
 - [Great Mental Models](https://github.com/jorgetovar/engineer-learning-notes/blob/main/leadership/great-mental-models.md)
 - [So Good That They can't Ignore You](https://github.com/jorgetovar/engineer-learning-notes/blob/main/leadership/so-good-that-they-cant-ignore-you.md)
