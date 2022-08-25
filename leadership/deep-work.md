@@ -1,6 +1,4 @@
-**Deep work is valuable, meaningful, and rare!**
-
-
+Deep work is valuable, meaningful, and rate
 - Requires long periods of uninterrupted thinking
 - Shallow work in contrast is non-cognitively demanding
 - You must master the art of learning quickly complicated things
@@ -16,8 +14,7 @@ Valuable, High skilled workers. Once the market is made universally accessible, 
 
 - The ability to quickly master hard things
 - The ability to produce at an elite level, in terms of both quality and speed
-
-You must learn to transform latent potential into tangible results that people value
+- You must learn to transform latent potential into tangible results that people value
 - To master your craft you have to embrace **deliberate practice**
 
 >1. Your attention is focused on a specific skill to improve or an idea that you’re trying to master
@@ -48,7 +45,7 @@ You must add rituals and routines to your working life designed to maintain an u
 1-4 Hours of extreme concentration a day seems to be the limit.
 
 You need to shut down and rest
-Committing to a specific plan for a goal may therefore not only facilitate attainment of the goal but also free cognitive resources for other pursuits
+Committing to a specific plan for a goal may therefore not only facilitate the attainment of the goal but also free cognitive resources for other pursuits
 
 Regularly resting your brain improves the quality of your deep work
 
@@ -56,20 +53,20 @@ Regularly resting your brain improves the quality of your deep work
 
 Minimize the number of times you give in to distractions and by doing so, you let the attention selection muscles strengthen
 
-## Rule 3: Quit social media 📲
+## Rule 3: Quit social media
 
 - Select the best tools to perform your craft and that all
 - Identify your main high-level goals in professional and personal life and select the tools that contribute to those goals
 
-## Rule 4: Drain the shallows ⚫️
+## Rule 4: Drain the shallows
 
 - Shallow work is vastly overestimated 
 - Adopt a result-driven approach -> let me know when you have made a significant progress
 - It's incredibly wasteful to pay a highly trained professional to send emails and attend meetings for 30 hours
-- Become hard to reach out
+- You have to become hard to reach out
 - Finish your work at the same hour always, and create a routine
 
-# Conclusion 📝
+# Conclusion
 
 - Focus is key, our ability to concentrate is a skill that gets valuable things done
 
