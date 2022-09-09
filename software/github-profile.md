@@ -1,3 +1,5 @@
+## Did you know you can use a Markdown file for your profile on GitHub?
+
 You can add a README to your GitHub profile (using your username as repo) to tell other people about yourself.
 
 
