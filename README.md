@@ -30,10 +30,17 @@ Share is what motivates me to write my notes in this repository. Thanks to [Yevg
 
 ### Lastly, Reading books is part of the process to get better when you are a *maker*, like almost all Software Developers, writing and taking notes helps you to organize your thoughts.
 
+## Latest
+
+- [Project Loom Java](https://github.com/jorgetovar/java-loom-project)
+- [Immutability](https://github.com/jorgetovar/immutability-spike)
+- [Completable Futures](https://github.com/jorgetovar/completable-futures)
 
 ## Learn to Learn
 
 - [Learning](https://github.com/jorgetovar/engineer-learning-notes/tree/main/learn-to-learn)
+
+
 
 ## Books
 - [Clean Agile](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/books/clean-agile.md)
