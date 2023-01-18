@@ -18,6 +18,7 @@
 - Diversify your knowledge portfolio
 - Lead by example
 - Write code
+- Minimize risk
 - Evolve the architecture 
 - Be mentor
 - Criticize ideas not people
