@@ -25,7 +25,7 @@ Metaphors: Using metaphors can help you understand complex ideas in a more enjoy
 Pomodoro technique: Try using this technique to help you focus and relax, and to build your ability to concentrate.
 
 
-## learning techniques
+## Learning techniques
 
 Effective learning requires effort and strategy. Here are some key ideas that can help you study, practice, and develop the design sensibilities needed to perform effectively:
 
