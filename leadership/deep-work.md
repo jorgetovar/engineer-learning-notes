@@ -6,7 +6,7 @@ Deep work is valuable, meaningful, and rare
 
 # The idea 💡
 
-Valuable, High skilled workers. Once the market is made universally accessible, these at the peak of the market will thrive while the rest suffer.
+Valuable, High skilled workers. Once the market is made universally accessible, those at the peak of the market will thrive while the rest suffer.
 
 **Digital technology reduces the need for labor in many industries, and the proportion of the rewards returned to those who own intelligent machines is growing.** 💻
 
@@ -33,7 +33,7 @@ Knowledge age productivity is measured by the outcome, not the inputs, and is no
 
 # The Rules
 
-## Rule 1: work deeply 🏋️‍♂️
+## Rule 1: Work deeply 🏋️‍♂️
 
 You must add rituals and routines to your working life designed to maintain an uninterrupted state of unbroken concentration
 
