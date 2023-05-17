@@ -1,4 +1,4 @@
-Deep work is valuable, meaningful, and rate
+Deep work is valuable, meaningful, and rare
 - Requires long periods of uninterrupted thinking
 - Shallow work in contrast is non-cognitively demanding
 - You must master the art of learning quickly complicated things
