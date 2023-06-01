@@ -16,8 +16,8 @@ The largest threat to reaching scale from a technical perspective was to be comp
 - Extreme programming
   * TDD
   * Pair programming
-- Career roadmap //TODO0
-- Dream job //TODO0
+- Career roadmap 
+- Dream job 
 - Autonomy, mastery, and purpose
 - Refactoring
 - Clean code
