@@ -87,7 +87,7 @@ What would you do if...
 
 The interviewee doesn’t ask any questions about the work or the company during the interview, it may be a sign that he is just looking for a job, regardless of which one. If the interviewee asks loads of questions, we can assume that she cares about her career and finding the right company. 
 
-###A Candidate’s Perspective
+### A Candidate’s Perspective
 
 Developers must learn how to use interviews as an opportunity to understand more about the company and the people whom they will, potentially, be working with.
 
