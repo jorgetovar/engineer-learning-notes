@@ -1,10 +1,12 @@
-Deep work is valuable, meaningful, and rare
+# Deep work 
+
+is valuable, meaningful, and rare
 - Requires long periods of uninterrupted thinking
 - Shallow work in contrast is non-cognitively demanding
 - You must master the art of learning quickly complicated things
 - The real rewards are reserved for those who are comfortable building the innovative distributed systems that run the services that people want and don't know how to get at scale
 
-# The idea 💡
+## The idea 💡
 
 Valuable, High skilled workers. Once the market is made universally accessible, those at the peak of the market will thrive while the rest suffer.
 

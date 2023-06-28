@@ -1,3 +1,5 @@
+# Ikigai
+
 In the book "Ikigai: The Japanese Secret to a Long and Happy Life" by Héctor García and Francesc Miralles, the authors explore the concept of Ikigai, which refers to finding purpose, fulfillment, and a sense of meaning in life. Here are the key takeaways:
 
 Discover Your Ikigai:

@@ -1,34 +1,40 @@
-# Introduction
-- It's easier to find the errors of others than to recognize own mistakes.
-- We have to be aware of **biases of intuition**.
-- The **heuristic of judgment** is prone to make mistakes.
-- Often we substitute hard questions with easier ones, without even noticing them.
+# Thinking, Fast and Slow
 
-# Systems
-We have systems to solve problems:
-- **Fast**: Intuition, biases, automatic, low effort
-- **Slow**: Logic, puzzles, complex tasks, concentrate
+"Thinking, Fast and Slow" explores the two systems of thinking that influence our judgments and decisions: the fast and intuitive System 1, and the slow and deliberate System 2. The key points from the book are as follows:
 
-## Section 1
-The basic elements of the judgments and the decisions are based on our two systems.
+## Introduction
+- We are more inclined to identify the mistakes of others than our own.
+- Biases of intuition can lead to errors in our thinking.
+- We often substitute difficult questions with easier ones without realizing it.
 
-- **Least effort**: We use our intuition to avoid wasting energy
-- **The Lazy Controller**: System 1 interprets the world and make almost all the decisions until we are faced with difficult calculations o focus on the task 
-- **Associative machine**: Primmingm, repeated fallacies are easier to be accepted
-- **Cognitive ease**: Repeated experience, priming idea, and good humor make things familiar, seems true, seems good, look easy
-- **Conclusions**: We make decisions with little information,  Positive numbers are more unerring
-- **Substitutions**: We change the difficult question for easy ones
+## Systems
+- We have two systems of thinking: the fast, automatic, and intuitive System 1, and the slow, logical, and effortful System 2.
+- System 1 operates quickly and relies on intuition and biases.
+- System 2 engages in more complex tasks that require concentration and logical reasoning.
 
-## Section 2
-Why it's too difficult to think in a statistical way
-- **Law of lower numbers**: Confidence when in doubt
-- **Anchors**: serve as a tipping point
-- **Availability**: available information != probability
-- **Representatibility**: impressions != probability
+## Section 1: Intuition and Biases
+- Our intuition tends to favor the path of least effort to conserve energy.
+- System 1 makes most of our decisions and interpretations until we encounter challenging tasks.
+- The associative nature of System 1 can lead to accepting repeated fallacies.
+- Cognitive ease, familiarity, and positive experiences can influence our judgments and decisions.
+- We often substitute difficult questions with easier ones without noticing.
 
-## Section 3
-We are prone to overestimate what we know about the world, we have an excess of confidence and an illusion of certainty
-## Section 4
-Dialog with the discipline of the economy
-## Section 5
-Two me. One experiment, another remember
+## Section 2: Statistical Thinking
+- We struggle with thinking statistically due to cognitive biases.
+- The law of small numbers leads to unwarranted confidence in limited information.
+- Anchoring biases influence our judgments based on arbitrary reference points.
+- Availability bias can distort our assessment of probabilities based on the ease of recalling information.
+- The representativeness heuristic can lead us to make judgments based on stereotypes rather than actual probabilities.
+
+## Section 3: Overconfidence and Certainty
+- We tend to overestimate our knowledge and exhibit excessive confidence.
+- Illusions of understanding and control can lead to a false sense of certainty.
+
+## Section 4: Economics and Decision Making
+- The discipline of economics can provide insights into decision-making biases and pitfalls.
+
+## Section 5: Two Selves - Experiencing and Remembering
+- Our experiences and memories are influenced by different cognitive processes.
+- The experiencing self lives in the present moment, while the remembering self constructs memories based on significant moments and the end of an experience.
+
+"Thinking, Fast and Slow" highlights the biases and limitations in our thinking processes and offers valuable insights into how our minds work. By understanding the interplay between intuitive and deliberate thinking, we can make better-informed decisions and judgments.
