@@ -1,5 +1,7 @@
 # Decision making
 
+By incorporating these improved ideas into your decision-making approach, you can enhance your ability to make sound and effective choices.
+
 1. Decision-Making Process:
    - Recognize that decision-making is a skill that is often not explicitly taught.
    - Mental models, our cognitive skill set, play a crucial role in decision making.
@@ -32,4 +34,3 @@
    - Strive to see reality objectively by shedding personal identity and biases.
    - Emphasize a systematic decision-making process rather than relying solely on analysis.
 
-By incorporating these improved ideas into your decision-making approach, you can enhance your ability to make sound and effective choices.
