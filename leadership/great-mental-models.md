@@ -1,5 +1,6 @@
-[The great mental models](https://www.amazon.com/Great-Mental-Models-Thinking-Concepts-ebook/dp/B07P79P8ST)
 # The Great Mental Models: General Thinking Concepts
+
+[The great mental models](https://www.amazon.com/Great-Mental-Models-Thinking-Concepts-ebook/dp/B07P79P8ST)
 
 "The old saying goes, 'To the man with a hammer, everything looks like a nail.' But anyone who has done any kind of project knows a hammer often isn't enough." 
 

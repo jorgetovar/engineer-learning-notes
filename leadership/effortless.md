@@ -1,3 +1,5 @@
+# Effortless
+
 In "Effortless," the author emphasizes the importance of focusing on essential tasks and finding ways to make them easier and enjoyable. Key takeaways include:
 
 1. Simplify and Prioritize: Identify the essential tasks and focus on them effectively. Ask yourself how you can invert the situation to make tasks easier and more enjoyable.

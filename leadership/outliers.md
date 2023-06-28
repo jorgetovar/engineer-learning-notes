@@ -1,3 +1,5 @@
+# Outliers
+
 In "Outliers," the author explores various factors that contribute to exceptional success:
 
 1. The 10,000-Hour Rule: Success often requires a significant amount of deliberate practice, typically around 10,000 hours of focused effort.
