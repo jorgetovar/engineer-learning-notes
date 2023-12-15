@@ -1,4 +1,4 @@
-# Making of a Manager Book Notes:
+# Making of a Manager
 
 Management is focused on achieving the best outcomes for the team, revolving around three pillars: Purpose (Why), People (Who), and Process (How).
 
