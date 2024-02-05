@@ -23,9 +23,9 @@ public class Main {
 
 One of the most important characteristics of Clojure is to be a dialect of Lisp; in this article, we are going to explore one of the most important elements of this language, the *Syntax*. -pending functions and data-.
 
-##Syntax
+## Syntax
 
-###Forms
+### Forms
 
 Clojure code has a uniform structure: Literal representations of data structures and operations.
 
@@ -48,7 +48,7 @@ System.out.println("My first article ".concat("in DEV"));
 // => "My fist article in DEV"
 ```
 
-###Control Flow
+### Control Flow
 
 Clojure operators are expressions, because they return values, unlike sentences that have side effects and occasionally return values.
 
@@ -67,7 +67,7 @@ public String isGreaterThan() {
 }
 ```
 
-###Immutability
+### Immutability
 
 Clojure is a functional language with immutable data structures that allow us to share data without problems between threads and functions.
 
@@ -89,7 +89,7 @@ person
 ; => {:first-name "Jorge", :last-name "Tovar", :age 30, :occupation "Programmer"}
 ```
 
-###Values with Name
+### Values with Name
 Clojure Functions are first-class elements and with his REPL is possible to test and reduce the feedback loop.
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/22x42ibk279loegjjqxb.png)
@@ -111,7 +111,7 @@ def user_message(message):
         x = "Python " + "loves OOP"
     return x
 ```
-###Conclusion
+### Conclusion
 
 The Clojure way focuses on simplicity, pure functions, and expressiveness, key elements to building reliable software.
 
