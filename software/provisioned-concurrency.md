@@ -1,4 +1,4 @@
-# Provisioned Concurrency - Reduce Cold Starts in AWS Lambda Functions PART 1
+# Provisioned Concurrency - Reduce Cold Starts in AWS Lambda Functions Part 1
 
 This series of AWS Lambda articles focuses on performance and best practices. This is part 1, where we explore Lambda cold starts, warming a lambda, and provisioned concurrency. In parts 2 and 3, we will discuss Deployment preferences, Powertools, Observability and Auto-scaling Provisioned concurrency using metrics and patterns, all of this with Infrastructure as Code 🧑🏻‍💻.
 
