@@ -1,4 +1,4 @@
-# Creating a Rest API with Infrastructure as Code (Terraform) & Serverless (Lambda + Python) - Part 2 CI/CD
+# AWS Creating a Rest API with Infrastructure as Code (Terraform) & Serverless (Lambda + Python) - Part 2 CI/CD
 
 In the previous post [Part 1](https://dev.to/aws-builders/creating-a-rest-api-with-infrastructure-as-code-terraform-serverless-lambda-python-part-1-3mbp), we saw how to deploy infrastructure using Terraform and quickly create an API with Python and Serverless. The example provided us with the fundamentals of key components and services for infrastructure creation. In this article, the idea is to automate the deployment using a platform that has always seemed excellent to me, like CircleCI. We will also see how to manage the state of resources from Terraform Cloud and, finally, we will list best practices to consider when creating an API.
 
