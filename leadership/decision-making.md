@@ -35,7 +35,7 @@ By incorporating these improved ideas into your decision-making approach, you ca
    - Emphasize a systematic decision-making process rather than relying solely on analysis.
 
 
-Problem Solving: A Breakdown
+## Problem Solving: A Breakdown
 Effective problem solving involves a structured approach:
 
 Understand the Problem: Clearly define the issue at hand.
@@ -43,25 +43,34 @@ Analyze Data and Unknowns: Identify the available data and areas where informati
 Devise a Plan: Formulate a strategy to address the problem based on the data and identified unknowns.
 Execute the Plan: Implement the chosen strategy.
 Evaluate Results: Assess the effectiveness of the solution and make adjustments if needed.
-The Role of a Teacher in Problem Solving
+
+**The Role of a Teacher in Problem Solving**
 A teacher's role is to facilitate this process by:
 
-Asking Questions: Prompting students to think critically about the problem.
-Guiding Understanding: Helping students analyze data, identify unknowns, and connect them to the problem.
-Learning Through Imitation and Practice
-Imitation and consistent practice are established methods for developing problem-solving skills.
+- Asking Questions: Prompting students to think critically about the problem.
+- Guiding Understanding: Helping students analyze data, identify unknowns, and connect them to the problem.
+- Learning Through Imitation and Practice
+- Imitation and consistent practice are established methods for developing problem-solving skills.
 
-Crucial Aspects of Problem Solving
+### Crucial Aspects of Problem Solving
 Problem Definition: Accurately stating the problem is a foundational step.
 Multiple Perspectives: Examining the problem from various viewpoints can lead to creative solutions.
-Problem-Solving Tools
+
+### Problem-Solving Tools
 Analogy: Relating the current problem to a similar situation with a known solution.
 First Principles: Breaking down the problem into its fundamental components to understand its core nature.
 Decomposition: Dividing the problem into smaller, more manageable sub-problems.
 Recombination: Reassembling the sub-problems with new insights to find a solution.
-Factors Influencing Problem-Solving Success
-Effort: Putting in dedicated time and effort is crucial.
-Process: Following a structured approach aids in tackling complex problems.
-Collaboration: Leveraging collective knowledge and skills can enhance solutions.
-Patience: Persistence is key when encountering challenges.
-Curiosity: A desire to explore and understand fuels problem-solving.
+
+### Factors Influencing Positioning
+
+- Talent
+- Effort
+- Process 
+- Collective talent 
+- Patience 
+- Ability to take pain 
+- Energy
+- Curiosity 
+- Luck 
+- Positioning 
