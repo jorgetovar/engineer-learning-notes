@@ -2,8 +2,6 @@
 
 **Software is all about composition.**
 
-[DevTo Article](https://dev.to/aws-builders/terraform-module-gotchas-inline-block-example-s3-aws-1ib2)
-
 ## Modules
 
 Modules are the key ingredient for writing reusable, maintainable code. When planning to deploy AWS infrastructure, it's better to leverage this functionality and be aware of the common gotchas to avoid conflicts with other Terraform configurations.
@@ -20,16 +18,33 @@ There are two gotchas we need to be aware of when using modules in Terraform:
 
 ## Inline blocks
 
-When we use modules, we should be careful with inline blocks, although they allow you to define some properties in the
-resource, it comes with a trade-off.
-We lose the flexibility to define and customize the resource properties in the root module.
+The configuration of some Terraform resources can be done through inline blocks or independent resources. It's a trade-off, and we have to be careful when using inline properties because we lose some flexibility to define and customize the resource properties from the client.
 
-![Module structure](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ekz3vs2hpvflkf473dym.png)
+**Inline blocks example**
 
-There are also the possibility of conflicts between the inline blocks and the module properties, which can lead to
-unexpected results.
+```hcl
+resource "aws_security_group" "alb" {
+  name = "${var.cluster_name}-alb"
 
-Finally, inline blocks have been deprecated in Terraform maybe for these reasons.
+  ingress {
+    from_port   = local.http_port
+    to_port     = local.http_port
+    protocol    = local.tcp_protocol
+    cidr_blocks = local.all_ips
+  }
+
+  egress {
+    from_port   = local.any_port
+    to_port     = local.any_port
+    protocol    = local.any_protocol
+    cidr_blocks = local.all_ips
+  }
+}
+```
+
+There is also the possibility of conflicts between the inline blocks and the module properties, which can lead to unexpected results. Finally, inline blocks have been deprecated in Terraform, perhaps for these reasons.
+
+**Separate resource customization example**
 
 ```hcl
 module "s3_bucket" {
@@ -46,9 +61,8 @@ resource "aws_s3_bucket_versioning" "versioning" {
 }
 ```
 
-Defining Terraform configuration within both the module itself and the file that uses the module can lead to several issues
+Finally remember that defining Terraform configuration within both the module itself and the file that uses the module can lead to several issues.
 
-![Deprecation](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xq1g1ns02pdehkabre9v.png)
 
 ### Complexity
 
@@ -75,10 +89,20 @@ We can leverage the path variables of terraform to read the files that are in th
 - **Path.cwd** : The path to the current working directory
 
 ```hcl
-templatefile("${path.module}/${element(local.templates, count.index)}"
+resource "local_file" "mad_libs" {
+  count    = var.num_files
+  filename = "build/madlibs-${count.index}.txt"
+  content  = templatefile("${path.module}/${element(local.templates, count.index)}",
+    {
+      nouns      = random_shuffle.random_nouns[count.index].result
+      adjectives = random_shuffle.random_adjectives[count.index].result
+      verbs      = random_shuffle.random_verbs[count.index].result
+      adverbs    = random_shuffle.random_adverbs[count.index].result
+      numbers    = random_shuffle.random_numbers[count.index].result
+      name       = "Jorge Tovar"
+    })
+}
 ```
-
-![Module structure](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iii16z78qxspxc5rs1gk.png)
 
 ## Conclusion
 
