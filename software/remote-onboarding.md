@@ -28,7 +28,7 @@ xargs brew desc < list.txt
 sdk install java 11.0.11.hs-adpt
 ```
 
-Brew leaves output: 
+Brew leaves output:
 
 ```shell
 awscli
@@ -50,7 +50,12 @@ terraform
 tree
 vert.x
 wget
+uv
+claude-code
+copilot-cli
+kiro-cli
 ```
+brew install --cask kiro-cli
 
 https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
 https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md
@@ -66,5 +71,22 @@ Finally, you can install all the software that you wanted, and maybe ignore some
 ```shell
 xargs brew install < list.txt | grep -v ".*full"
 ```
+
+### AI-Powered Development Tools
+
+Modern development includes AI assistants that boost productivity:
+
+- **Claude Code**: Official Anthropic CLI for AI-assisted development
+- **GitHub Copilot CLI**: AI pair programmer in your terminal
+- **Kiro CLI**: Modern AWS CLI with better UX
+
+### Model Context Protocol (MCP) Servers
+
+MCPs provide specialized context to AI assistants via `uvx`. Useful servers to configure:
+
+- **AWS Documentation**: AWS service docs and best practices
+- **Bedrock AgentCore**: AgentCore platform documentation and APIs
+- **GitHub**: Connect Claude Code to repositories
+
 
 A great example of good onboarding should have to be documented [Onboarding Gitlab](https://about.gitlab.com/handbook/people-group/general-onboarding/)
