@@ -5,7 +5,7 @@ I still remember the days when we had to set flags and display a maintenance pag
 
 ## Why Zero-Downtime Deployment
 
-Achieving zero-downtime deployments has become a requirement for modern applications. We are now in an era of software delivery where downtime should be minimal and latency low. **As clients, our expectations have raisen.** If an application does not function correctly, we perceive it as unreliable and are likely to abandon its use. 🤑
+Achieving zero-downtime deployments has become a requirement for modern applications. We are now in an era of software delivery where downtime should be minimal and latency low. **As clients, our expectations have risen.** If an application does not function correctly, we perceive it as unreliable and are likely to abandon its use. 🤑
 
 Today, I want to introduce some strategies to implement zero downtime deployments and build trust with your customers.
 

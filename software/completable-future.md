@@ -4,7 +4,7 @@
 
 Do you know that parallel stream in Java has performance limitations due to Java will use the number of available processors?
 
-If you want to take advance of the latest Java features and overcome this problem, use CompletableFuture.
+If you want to take advantage of the latest Java features and overcome this problem, use CompletableFuture.
 
 You can create a ThreadPool greater than the number of available processors and reap the performance improvements.
 CompletableFuture uses lambdas, and the code is expressive.

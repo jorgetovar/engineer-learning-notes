@@ -102,5 +102,5 @@
 - Present above all else
 - Desire is suffering
 - Reading is a meta-skill
-- All greatness conference suffering 
+- All greatness comes from suffering 
 - Benefits came from compound interest

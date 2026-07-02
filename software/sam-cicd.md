@@ -159,6 +159,6 @@ I would love to connect with you also on any of the following:
 - [Twitter](https://twitter.com/jorgetovar621)
 - [GitHub](https://github.com/jorgetovar)
 
-If you enjoyed the posts please follow visit my blog [jorgetovar.dev](jorgetovar.dev)
+If you enjoyed the posts please visit my blog [jorgetovar.dev](jorgetovar.dev)
 
 

@@ -66,7 +66,7 @@ Outputs:
 
 - Create an IAM user for your AWS account.
 - Enable MFA in all your AWS users
-- Grant roles to EC2, applications should not have AIM accounts 
+- Grant roles to EC2, applications should not have IAM accounts 
 - Assign privileges to groups and not directly to the users
 
 

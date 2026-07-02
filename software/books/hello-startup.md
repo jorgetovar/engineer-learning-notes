@@ -142,7 +142,7 @@ Try to find 10x Developers, the **early hires are the most important ones**, the
 
 Find people with **good communication skills**, programming is a social activity, you need to share ideas, and scale with practices and ideas, not only people.
 
-**Referrals** are good candidates because it gives you more information about the performance, and the odds of turnover are minor compared with people that you find on LinkedIn or other hob platforms.  
+**Referrals** are good candidates because it gives you more information about the performance, and the odds of turnover are minor compared with people that you find on LinkedIn or other job platforms.  
 
 ### 12.Learning
 

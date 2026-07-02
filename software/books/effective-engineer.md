@@ -111,7 +111,7 @@ One of the most valuable lessons in Lean is to **minimize waste** if you are cre
  
 ## Chapter 7 - Project estimation skills
 
-- Descompose into granular taks
+- Decompose into granular tasks
 - **Think of estimates as probability distributions**: Maybe the most important takeaway from this chapter is, In Uncle Bob's talk, he shows us how to give scenarios to the product and business people - worst, most probably, best scenario-.
 - Beware the mythical man-month: **More resources and people are not proportional to the speed**
 - Timeboxing to constrain tasks that can grow in scope

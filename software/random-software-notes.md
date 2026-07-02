@@ -137,7 +137,7 @@ Test behaviors, not classes
 - Technical debt: Invest time in writing test and automation tools not debugging
 - Create software as a sustainable code not speed and rot
 
-# Programers oath
+# Programmers oath
 
 - Don't ship harmful code
 - Do your best possible work
@@ -146,7 +146,7 @@ Test behaviors, not classes
 - Cover each other 
 - Provide real estimations
 - Make frequent small releases
-- I will fearless improve my creations at every opportunity
+- I will fearlessly improve my creations at every opportunity
 - I will never stop learning and improving my craft
 
 # Peopleware

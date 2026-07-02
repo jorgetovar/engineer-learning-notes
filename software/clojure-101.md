@@ -35,8 +35,8 @@ Clojure code has a uniform structure: Literal representations of data structures
 (+ 1 2)
 ; => 3
 
-(str "My fist article " "in DEV")
-; => "My fist article in DEV"
+(str "My first article " "in DEV")
+; => "My first article in DEV"
 ```
 
 Clojure syntax is consistent in all the data structures, unlike Java where the syntax depends on the structure, class or data to be processed.
@@ -45,7 +45,7 @@ Clojure syntax is consistent in all the data structures, unlike Java where the s
 System.out.println(1 + 2);
 // => 3
 System.out.println("My first article ".concat("in DEV"));
-// => "My fist article in DEV"
+// => "My first article in DEV"
 ```
 
 ### Control Flow
