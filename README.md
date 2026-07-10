@@ -32,6 +32,7 @@ Share is what motivates me to write my notes in this repository. Thanks to [Yevg
 
 ## Latest
 
+- [Building Production AI Agents on AWS Bedrock](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/bedrock-agents-production.md)
 - [Project Loom Java](https://github.com/jorgetovar/java-loom-project)
 - [Immutability](https://github.com/jorgetovar/immutability-spike)
 - [Completable Futures](https://github.com/jorgetovar/completable-futures)
@@ -90,12 +91,36 @@ Share is what motivates me to write my notes in this repository. Thanks to [Yevg
 
 - Test-Driven Development by Example
 
+## AWS / Cloud
+
+- [Building Production AI Agents on AWS Bedrock](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/bedrock-agents-production.md)
+- [Bedrock Inference Profiles and Cost Visibility](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/bedrock-inference-profiles.md)
+- [AWS IAM Identity Center (SSO)](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/aws-iam-identity-center.md)
+- [AWS Tips for Scalable Applications](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/aws-tips-scalable.md)
+- [Things to Keep in Mind on AWS](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/things-to-keep-in-mind-aws.md)
+- [Provisioned Concurrency](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/provisioned-concurrency.md)
+- [SAM CI/CD](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/sam-cicd.md)
+- [Serverless with Terraform](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/serverless-terraform.md)
+- [Serverless with Terraform 2](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/serverless-terraform-2.md)
+- [Terraform Module Gotchas](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/terraform-module-gotchas.md)
+- [Cloud Notes](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/cloud.md)
+
+## Software Engineering
+
+- [Software Architecture](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/software-architecture.md)
+- [Production Checklist](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/checklist-production.md)
+- [Zero Downtime Deployments](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/zero-downtime-deployments.md)
+- [Embrace Immutability](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/embrace-immutability.md)
+- [Project Loom Java](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/project-loom-java.md)
+- [Completable Futures](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/completable-future.md)
+
 ## Random
 
 - [Software Notes](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/random-software-notes.md)
 - [Hiring](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/hiring-startup.md)
 - [Git Useful Commands](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/git-useful-commands.md)
 - [Remote Onboarding](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/remote-onboarding.md)
+- [GitHub Profile](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/github-profile.md)
 - [Simple robot-simulator](https://github.com/jorgetovar/robot-simulator)
 - [Clojure](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/clojure-101.md)
 
