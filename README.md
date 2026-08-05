@@ -32,6 +32,7 @@ Share is what motivates me to write my notes in this repository. Thanks to [Yevg
 
 ## Latest
 
+- [Claude Code Authentication: Subscription, API Key, Amazon Bedrock, and Claude Platform on AWS](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/claude-code-authentication.md)
 - [Building Production AI Agents on AWS Bedrock](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/bedrock-agents-production.md)
 - [Project Loom Java](https://github.com/jorgetovar/java-loom-project)
 - [Immutability](https://github.com/jorgetovar/immutability-spike)
@@ -93,6 +94,7 @@ Share is what motivates me to write my notes in this repository. Thanks to [Yevg
 
 ## AWS / Cloud
 
+- [Claude Code Authentication: Subscription, API Key, Amazon Bedrock, and Claude Platform on AWS](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/claude-code-authentication.md)
 - [Building Production AI Agents on AWS Bedrock](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/bedrock-agents-production.md)
 - [Bedrock Inference Profiles and Cost Visibility](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/bedrock-inference-profiles.md)
 - [AWS IAM Identity Center (SSO)](https://github.com/jorgetovar/engineer-learning-notes/blob/main/software/aws-iam-identity-center.md)
